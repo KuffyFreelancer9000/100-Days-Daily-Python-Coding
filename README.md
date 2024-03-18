@@ -1,1 +1,1 @@
-This is a Daily Task File to build my  coding skills      
+This is a Daily Task File to build my  coding skills.
